@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImagenesEnBotones</string>
+    <string name="infoMano">Soy una maldita mano</string>
+    <string name="infoSilla">Soy una comoda silla</string>
+</resources>
